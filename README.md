@@ -18,8 +18,7 @@ Don't move forward if you don't know what you're doing!
 
 1. Download your firmware
 
-- right clicking on the file and click "save link as".
-- Or clone the repo by clicking "Code" -> "Download ZIP".
+- Clone the repo by clicking "Code" -> "Download ZIP".
 - Or `git clone https://github.com/petercpark/stenokeyboards-firmware.git`
 
 2. Download [QMK Toolbox](https://github.com/qmk/qmk_toolbox/releases/latest) and open it up. Download dependencies if it asks you to.
