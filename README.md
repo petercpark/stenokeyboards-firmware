@@ -4,7 +4,7 @@ So you bought a steno keyboard from [StenoKeyboards](https://stenokeyboards.com/
 
 This is a place for the default firmware that comes with your steno keyboard, or firmware for your diy kit.
 
-Don't move forward if you don't know what you're doing!
+Don't move forward if your keyboard already works and you don't know what you're doing!
 
 ## Keyboard and corresponding firmware
 
