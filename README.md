@@ -4,15 +4,16 @@ So you bought a steno keyboard from [StenoKeyboards](https://stenokeyboards.com/
 
 This is a place for the default firmware that comes with your steno keyboard, or firmware for your diy kit.
 
+If you want to build from the source code, go to the official [qmk_firmware](https://github.com/qmk/qmk_firmware/tree/master/keyboards/the_uni) repository.
+
 Don't move forward if your keyboard already works and you don't know what you're doing!
 
 ## Keyboard and corresponding firmware
 
-| Keyboard      | Mode    | Firmware                                                                                                                         | MCU        |
-| ------------- | ------- | -------------------------------------------------------------------------------------------------------------------------------- | ---------- |
-| Uni v1 and v2 | Default | [the_uni_pro_micro_default.hex](https://github.com/petercpark/stenokeyboards-firmware/blob/master/the_uni_pro_micro_default.hex) | atmega32u4 |
-| Uni v3        | Default | [the_uni_usb_c_default.hex](https://github.com/petercpark/stenokeyboards-firmware/blob/master/the_uni_usb_c_default.hex)         | atmega32u4 |
-| Uni v3        | Qwerty  | [the_uni_usb_c_qwerty.hex](https://github.com/petercpark/stenokeyboards-firmware/blob/master/the_uni_usb_c_qwerty.hex)           | atmega32u4 |
+| Keyboard      | Folder                    | Firmware Available | MCU        |
+| ------------- | ------------------------- | ------------------ | ---------- |
+| Uni v1 and v2 | [the_uni_v2](the_uni_v2/) | Default, Qwerty    | atmega32u4 |
+| Uni v3        | [the_uni_v3](the_uni_v3/) | Default, Qwerty    | atmega32u4 |
 
 ## How to flash
 
@@ -22,7 +23,7 @@ Don't move forward if your keyboard already works and you don't know what you're
    - Or `git clone https://github.com/petercpark/stenokeyboards-firmware.git`
 
 2. Download [QMK Toolbox](https://github.com/qmk/qmk_toolbox/releases/latest) and open it up. It should prompt you to download dependencies when you first open it up. It won't work unless you download the dependencies.
-3. Select the .hex file you downloaded by clicking "open". Make sure that the MCU matches what is shown on the chart above (i.e. atmega32u4)
+3. Select the .hex file you want to use by clicking "open". Make sure that the MCU matches what is shown on the chart above (i.e. atmega32u4)
 
    - If you are flashing your keyboard because it didn't work with Plover, try flashing it with the Qwerty .hex file as a test to make sure that the board itself is in working condition.
    - The purpose of doing this is to make sure that the keyboard is working properly without having to worry about configuring around with Plover.
