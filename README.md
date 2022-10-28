@@ -18,11 +18,15 @@ Don't move forward if your keyboard already works and you don't know what you're
 
 ## How to flash Uni v4 (rp2040 chip)
 
-1.  Unplug the Uni
-2.  On the back of the Uni, press and hold the 'B' (boot) button and while you plug the keyboard in.
-3.  This will make the computer recognize the keyboard as a storage device and in your file explorer, you will be able to see it.
-4.  Copy paste the .uf2 file into the keyboard. Don't put it in any folder, just paste it in.
-5.  That's it, very easy.
+1. Download your firmware
+
+   - Clone the repo by clicking "Code" -> "Download ZIP".
+   - Or `git clone https://github.com/petercpark/stenokeyboards-firmware.git`
+2.  Unplug the Uni
+3.  On the back of the Uni, press and hold the 'B' (boot) button and while you plug the keyboard in.
+4.  This will make the computer recognize the keyboard as a storage device and in your file explorer, you will be able to see it.
+5.  Copy paste the .uf2 file into the keyboard. Don't put it in any folder, just paste it in.
+6.  That's it, very easy.
 
 ## How to flash v3, v2, and v1 only
 
