@@ -25,8 +25,10 @@ Don't move forward if your keyboard already works and you don't know what you're
 2.  Unplug the Uni
 3.  On the back of the Uni, press and hold the 'B' (boot) button and while you plug the keyboard in.
 4.  This will make the computer recognize the keyboard as a storage device and in your file explorer, you will be able to see it.
-5.  Copy paste the .uf2 file into the keyboard. Don't put it in any folder, just paste it in.
+5.  Copy paste the .uf2 file into the keyboard. Paste it into the root folder.*
 6.  That's it, very easy.
+
+*If you are on a Ventura Macbook, you might get an error when pasting it in. In that case see the instructions [here](https://www.raspberrypi.com/news/the-ventura-problem/).
 
 ## How to flash v3, v2, and v1 only
 
