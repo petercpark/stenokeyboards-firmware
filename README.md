@@ -10,11 +10,11 @@ Don't move forward if your keyboard already works and you don't know what you're
 
 ## Keyboard and corresponding firmware
 
-| Keyboard      | Folder                    | Firmware Available | MCU        |
-| ------------- | ------------------------- | ------------------ | ---------- |
-| Uni v1 and v2 | [the_uni_v2](the_uni_v2/) | Default, Qwerty    | atmega32u4 |
-| Uni v3        | [the_uni_v3](the_uni_v3/) | Default, Qwerty    | atmega32u4 |
-| Uni v4        | [the_uni_v4](the_uni_v4/) | Default, Qwerty    | rp2040     |
+| Keyboard      | Folder                    | Firmware Available       | MCU        |
+| ------------- | ------------------------- | ------------------------ | ---------- |
+| Uni v1 and v2 | [the_uni_v2](the_uni_v2/) | Default, Qwerty          | atmega32u4 |
+| Uni v3        | [the_uni_v3](the_uni_v3/) | Default, Qwerty          | atmega32u4 |
+| Uni v4        | [the_uni_v4](the_uni_v4/) | Default, Qwerty, Utility | rp2040     |
 
 ## How to flash Uni v4 (rp2040 chip)
 
