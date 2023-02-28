@@ -14,7 +14,7 @@ Qwerty layout to use with Plover's keyboard mode.
 
 ![Uni qwerty layout](https://i.imgur.com/b7XZClQ.png)
 
-## Utility Bar
+## Utility Belt
 
 Gemini PR firmware with the bottom left thumb key mapped to a layer switch.
 
