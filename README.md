@@ -21,8 +21,7 @@ Don't move forward if your keyboard already works and you don't know what you're
 
 1. Download your firmware
 
-   - Clone the repo by clicking "Code" -> "Download ZIP".
-   - Or `git clone https://github.com/petercpark/stenokeyboards-firmware.git`
+   - Navigate your way to the firmware you want, click on it, then click "Download."
 
 2. Unplug the keyboard
 3. On the back of the keyboard, press and hold the 'B' (boot) button and while you plug the keyboard in.
