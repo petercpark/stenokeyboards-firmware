@@ -17,7 +17,7 @@ Don't move forward if your keyboard already works and you don't know what you're
 | Uni v4        | [the_uni_v4](the_uni_v4/)   | Default, Qwerty, Utility      | rp2040     |
 | Polyglot v1   | [polyglot_v1](polyglot_v1/) | Default, Everything, Switched | rp2040     |
 
-## How to flash Uni v4 (or any rp2040 MCU keyboard)
+## How to flash Uni v4, Polyglot, or any rp2040 MCU keyboard
 
 1. Download your firmware
 
