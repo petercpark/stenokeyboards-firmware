@@ -2,7 +2,7 @@
 
 Keyboard: [https://stenokeyboards.com/products/polyglot-keyboard](https://stenokeyboards.com/products/polyglot-keyboard)
 
-Learn how to flash the firmware by referring to the [README](README.md).
+Learn how to flash the firmware by referring to the [README](../README.md).
 
 ## Default Steno
 
