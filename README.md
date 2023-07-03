@@ -4,7 +4,7 @@ So you bought a steno keyboard from [StenoKeyboards](https://stenokeyboards.com/
 
 This is a place for the default firmware that comes with your steno keyboard, or firmware for your diy kit.
 
-If you want to build from the source code, go to the official [qmk_firmware](https://github.com/qmk/qmk_firmware/tree/master/keyboards/the_uni) repository.
+If you want to build from the source code, go to the official [qmk_firmware](https://github.com/qmk/qmk_firmware/tree/master/keyboards/stenokeyboards/the_uni) repository.
 
 Don't move forward if your keyboard already works and you don't know what you're doing!
 
