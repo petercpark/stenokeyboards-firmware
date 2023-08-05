@@ -4,13 +4,15 @@ Keyboard: [https://stenokeyboards.com/products/polyglot-keyboard](https://stenok
 
 Learn how to flash the firmware by referring to the [README](../README.md).
 
-## Default Steno
+## Default
+
+### Steno
 
 Gemini PR steno mode to use with Plover's Gemini PR mode. Qwerty mode with number and symbol layers.
 
 ![Polyglot default layout](https://i.imgur.com/xXi2rap.png)
 
-## Default Qwerty
+### Default Qwerty
 
 Qwerty layout to use with Plover's keyboard mode.
 
@@ -27,3 +29,7 @@ The layout is described here: [StenoKeyboards QMK Fork](https://github.com/peter
 This firmware features the default steno firmware except the shift and the space is swapped in qwerty mode.
 
 The layout is described here: [StenoKeyboards QMK Fork](https://github.com/petercpark/qmk_firmware/blob/polyglot-v1/keyboards/stenokeyboards/polyglot/keymaps/default_switched/keymap.c)
+
+## Narrow
+
+Feels more ergonomic? Try it out to see if you like it! (it's got a number bar)
