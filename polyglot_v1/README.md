@@ -32,4 +32,4 @@ The layout is described here: [StenoKeyboards QMK Fork](https://github.com/peter
 
 ## Narrow
 
-Feels more ergonomic? Try it out to see if you like it! (it's got a number bar)
+Feels more ergonomic? Try it out to see if you like it! (it's got a number bar). You should also turn the middle row (second from top row) 180 degrees so that you type on the flat surface.
