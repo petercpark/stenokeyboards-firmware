@@ -12,7 +12,7 @@ Gemini PR steno mode to use with Plover's Gemini PR mode. Qwerty mode with numbe
 
 ![Polyglot default layout](https://i.imgur.com/xXi2rap.png)
 
-### Default Qwerty
+### Qwerty
 
 Qwerty layout to use with Plover's keyboard mode.
 
