@@ -22,7 +22,7 @@ Qwerty layout to use with Plover's keyboard mode.
 
 It has Qwerty mode, but it also features a Colemak and Dvorak layer. It also has a layer with a number bar.
 
-The layout is described here: [StenoKeyboards QMK Fork](https://github.com/petercpark/qmk_firmware/blob/polyglot-v1/keyboards/stenokeyboards/polyglot/keymaps/everything/keymap.c)
+The layout is described here: [StenoKeyboards QMK Fork](https://github.com/petercpark/qmk_firmware/blob/polyglot-v1/keyboards/stenokeyboards/polyglot/keymaps/everything_qwerty/keymap.c)
 
 ## Switched
 
