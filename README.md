@@ -18,7 +18,7 @@ Don't move forward if your keyboard already works and you don't know what you're
 | Polyglot v1   | [polyglot_v1](polyglot_v1/) | Default, Everything, Switched | rp2040     |
 | Asterisk v1   | [asterisk_v1](asterisk_v1/) | Default | rp2040     |
 
-## How to flash Uni v4, Polyglot, or any rp2040 MCU keyboard
+## How to flash Uni v4, Polyglot, Asterisk or any rp2040 MCU keyboard
 
 1. Download your firmware
 
