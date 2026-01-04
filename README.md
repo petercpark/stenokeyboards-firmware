@@ -14,9 +14,9 @@ Don't move forward if your keyboard already works and you don't know what you're
 | ------------- | --------------------------- | ----------------------------- | ---------- |
 | Uni v1 and v2 | [the_uni_v2](the_uni_v2/)   | Default, Qwerty               | atmega32u4 |
 | Uni v3        | [the_uni_v3](the_uni_v3/)   | Default, Qwerty, Utility      | atmega32u4 |
-| Uni v4        | [the_uni_v4](the_uni_v4/)   | Default, Qwerty, Utility      | rp2040     |
+| Uni v4        | [the_uni_v4](the_uni_v4/)   | Default, Qwerty, Utility, HID | rp2040     |
 | Polyglot v1   | [polyglot_v1](polyglot_v1/) | Default, Everything, Switched | rp2040     |
-| Asterisk v1   | [asterisk_v1](asterisk_v1/) | Default | rp2040     |
+| Asterisk v1   | [asterisk_v1](asterisk_v1/) | Default, HID                  | rp2040     |
 
 ## How to flash Uni v4, Polyglot, Asterisk or any rp2040 MCU keyboard
 
